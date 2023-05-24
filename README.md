@@ -1,4 +1,6 @@
-# Aplikasi CRUD sederhana dengan MERN Stack
+# Aplikasi CRUD sederhana dengan MERN Stack dan Tailwindcss
+
+! Aplikasi ini hasil dari mengikuti playlist MERN Stack Tutorials by Dave Gray !
 
 front end pada folder client
 back end pada folder server
